@@ -1,0 +1,66 @@
+*{
+    background-color: rgb(54, 54, 54);
+}
+
+
+
+.red {
+    /* color: red; */
+    background-color: red;
+    height: 30px;
+    width: 100px;
+    
+    
+}
+.cyan {
+    /* color: red; */
+    background-color:cyan;
+    height: 30px;
+    width: 100px;
+    
+    
+}
+.violet{
+    /* color: red; */
+    background-color: violet;
+    height: 30px;
+    width: 100px;
+    
+    
+}
+.orange {
+    /* color: red; */
+    background-color: orange;
+    height: 30px;
+    width: 100px;
+    
+    
+}
+.pink {
+    /* color: red; */
+    background-color: pink;
+    height: 30px;
+    width: 100px;
+    
+    
+}
+
+.color-hover{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.color{
+    margin: 2px;
+}
+
+.center{
+    margin-left: 40%;
+    margin-top: 8%;
+    background-color: bisque;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
